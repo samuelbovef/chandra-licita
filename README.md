@@ -103,14 +103,32 @@ O Chandra Licita opera sob rigoroso controle de autenticação física. A plataf
 
 ## Protocolo de Autenticação e Instalação
 
-**Para solicitar a chave de acesso ou licenciamento corporativo:**
+**Para solicitar sua chave de acesso ou licenciamento corporativo:**
 
 1. Realize o download do arquivo executável (`.exe`) do Chandra Licita na aba **Lançamentos (Releases)** deste repositório.
-2. Inicie a aplicação e clique no botão para copiar o código alfanumérico exibido na tela de bloqueio (`HARDWARE ID`).
-3. Acesse o portal de licenciamento oficial clicando no botão abaixo para processar sua solicitação:
+2. Inicie a aplicação e copie o código alfanumérico exibido na tela de bloqueio (`HARDWARE ID`).
+3. Acesse a minha Central para atendimento comercial e emissão da licença.
 
 <div align="center">
 
-[![Solicitar Chave de Acesso](https://img.shields.io/badge/SOLICITAR_ACESSO_CORPORATIVO-00FF9C?style=for-the-badge&logo=rocket&logoColor=black&labelColor=1a1a1a)](https://suporte-seriais.pages.dev/)
+[![Central de Atendimento](https://img.shields.io/badge/ACESSAR_CENTRAL_DE_ATENDIMENTO-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbovef/suporte)
 
 </div>
+
+---
+
+## Protocolo de Autenticação e Instalação
+
+**Para solicitar sua chave de acesso ou licenciamento corporativo:**
+
+1. Realize o download do arquivo executável (`.exe`) do Chandra Licita na aba **Lançamentos (Releases)** deste repositório.
+2. Inicie a aplicação e copie o código alfanumérico exibido na tela de bloqueio (`HARDWARE ID`).
+3. Acesse a minha Central para atendimento comercial e emissão da licença.
+
+<div align="center">
+
+[![Central de Atendimento](https://img.shields.io/badge/ACESSAR_CENTRAL_DE_ATENDIMENTO-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbovef/suporte)
+
+</div>
+
+---
