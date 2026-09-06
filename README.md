@@ -3,9 +3,8 @@
 # CHANDRA LICITA
 ### `Tecnologia Governamental e Prospecção Corporativa Avançada`
 
-[![Licença](https://img.shields.io/badge/Acesso-Avaliacao_Gratuita-00ff9c?style=for-the-badge&logo=checkmarx&logoColor=black&labelColor=1a1a1a)](#)
 [![Data](https://img.shields.io/badge/Processamento-Alto_Desempenho-00b8ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a)](#)
-[![Segurança](https://img.shields.io/badge/Seguranca-Autenticacao_Fisica-ff2e63?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=1a1a1a)](#)
+[![Licença](https://img.shields.io/badge/Licenca-Proprietária-f0b90b?style=for-the-badge&logo=springsecurity&logoColor=black&labelColor=1a1a1a)](#)
 
 *O **Chandra Licita** é uma plataforma de alto desempenho projetada para o mercado de vendas ao governo. Ele elimina a dependência de portais públicos instáveis, coordenando a extração de dados do Portal Nacional de Contratações Públicas (PNCP), classificando oportunidades via inteligência léxica e operando como um painel de gestão comercial avançado diretamente na infraestrutura local do usuário.*
 
